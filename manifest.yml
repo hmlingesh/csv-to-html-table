@@ -1,0 +1,4 @@
+---
+applications:
+ - name: csv-test
+   memory: 128M
